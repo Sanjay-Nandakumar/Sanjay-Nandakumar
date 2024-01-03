@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">Data scientist | Analytics consultant | Statistician | AI & ML Engineer</h3>
-<h4 align="center">Ex-Ducen | Ex-Quantiphi </h4>
+<h2 align="center">Data scientist | Analytics consultant | Statistician | AI & ML Engineer</h2>
+<h3 align="center">Ex-Ducen | Ex-Quantiphi </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-nandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-nandakumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-nandakumar" alt="sanjay-nandakumar" /></a> </p>
