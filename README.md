@@ -25,7 +25,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanjaynk_tweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjaynk_tweet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjay-nandakumar-8278229b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-nandakumar-8278229b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9057207/sanjay-nandakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9057207/sanjay-nandakumar" height="30" width="40" /></a>
 </p>
