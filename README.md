@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-nandakumar" alt="sanjay-nandakumar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sanjaynk_tweet" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaynk_tweet?logo=twitter&style=for-the-badge" alt="sanjaynk_tweet" /></a> </p>
-
 - 🔭 I’m currently researching on **Advanced Artificial Intelligence & Machine learning**
 
 - 🌱 Here's my LinkedIn profile **https://www.linkedin.com/in/sanjay-nandakumar-8278229b/**
